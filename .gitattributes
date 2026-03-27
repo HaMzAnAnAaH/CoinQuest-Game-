@@ -2,5 +2,6 @@
 *.hlsl linguist-vendored
 *.cginc linguist-vendored
 
+
 *.cs linguist-detectable=true
 *.cs linguist-language=C#
