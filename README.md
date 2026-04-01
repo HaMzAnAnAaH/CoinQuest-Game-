@@ -1,5 +1,6 @@
 # CoinQuest 🎮
 
+
 A lightweight 2D platformer game where the player jumps across platforms, collects coins, and avoids enemies to win.
 
 ## 🚀 Features
